@@ -22,7 +22,7 @@ Developed By : Palamakula Deepika
 Reg No.: 212221240035
 ```
 
-A - LINEAR TREND ESTIMATION
+## A - LINEAR TREND ESTIMATION
 ```python
 import pandas as pd
 import numpy as np
@@ -70,7 +70,7 @@ pred = 110.0
 predarray = np.array([[pred]])
 lin.predict(predarray)
 ```
-B- POLYNOMIAL TREND ESTIMATION
+## B- POLYNOMIAL TREND ESTIMATION
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
